@@ -35,6 +35,7 @@ gema  "         ╩ ╩═╝╚═╝╩ ╩╚═╝╚═╝ ╚╩╝╩ ╩
 gema
 pip2 instal mekanik
 bersih
+echo
 gema
 gema  "         ╔═╗╦ ╔═╗╔═╗╔═╗╔═╗ ╦ ╦╔═╗╦╔╦╗ "
 gema  "         ╠═╝║ ║╣ ╠═╣╚═╗║╣ ║║║╠═╣║ ║ "
@@ -49,6 +50,7 @@ gema  "         ╩ ╩═╝╚═╝╩ ╩╚═╝╚═╝ ╚╩╝╩ ╩
 gema
 menginstal ruby ​​-y
 bersih
+echo
 gema
 gema  "         ╔═╗╦ ╔═╗╔═╗╔═╗╔═╗ ╦ ╦╔═╗╦╔╦╗ "
 gema  "         ╠═╝║ ║╣ ╠═╣╚═╗║╣ ║║║╠═╣║ ║ "
