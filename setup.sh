@@ -1,4 +1,4 @@
-#! / bin / bash
+#! / bin / bash 
 bersih
 gema
 gema  "         ╔═╗╦ ╔═╗╔═╗╔═╗╔═╗ ╦ ╦╔═╗╦╔╦╗ "
